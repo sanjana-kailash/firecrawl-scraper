@@ -25,7 +25,7 @@ A Python tool that scrapes AI/tech news websites and generates a concise TLDR su
 python scraper.py
 ```
 
-## Roadmap
+## In progress
 - [ ] Add multiple news sources
 - [ ] Build a web frontend
 - [ ] Host on Vercel
