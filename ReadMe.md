@@ -2,6 +2,8 @@
 
 A Python tool that scrapes AI/tech news websites and generates a concise TLDR summary — built for professionals who want to stay on top of the AI landscape without reading through entire publications.
 
+![AI News Summariser Preview](assets/preview.png)
+
 ## Tools Used
 - [Firecrawl](https://firecrawl.dev) — web scraping
 - [Groq](https://groq.com) — fast LLM inference (Llama 3.1)
